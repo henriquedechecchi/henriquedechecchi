@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Henrique De Checchi and I'm a Systems Analyst Developer student, from INFNET.</h2>
+<h2 align="left">Hi 👋! My name is Henrique De Checchi and I'm a Systems Analyst Developer student. Italobrasilian living in Italy.</h2>
 
 ###
 
